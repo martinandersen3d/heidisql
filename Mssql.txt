@@ -1,0 +1,1 @@
+\\.\pipe\MSSQL$SQLEXPRESS\sql\query
